@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EveApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">كلمة السر</string>
+    <string name="donthave">لا تمتلك حساب ؟!انشئ حساب></string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="massg">Massages</string>
+    <string name="instit">المؤسسات</string>
+    <string name="cons">الاستشاريين</string>
+    <string name="fav">المفضلة</string>
+    <string name="home">الصفحة الرئيسة</string>
+    <string name="skip">تخطي</string>
+    <string name="disc1">يعمل التطبيق على تسهيل وصول النساء المعنفات الى المستشارين ,
+        \n     لصعوبة قدرة الاغلب للتواصل معهم بالواقع لعدة اسباب .. </string>
+    <string name="title1">التواصل مع المستشارين</string>
+    <string name="next">التالي</string>
+    <string name="title2">الدعم و التوعية للنساء المعنفات</string>
+    <string name="disc2">يقوم التطبيق بعرض مؤسسات المجتمع المحلي الخاصة و العامة,
+        \n و يوفر طرق التواصل معهم .</string>
+    <string name="title3">الاعلانات و المقالات عن النساء المعنفات </string>
+    <string name="disc3">يوفر التطبيق العديد من المقالات و الاعلانات التي تعرض نموذج  ,
+        \nعن نساء معنفات و كيفية التعامل في حال تعرضت المرأة للعنف .</string>
+    <string name="alredy">تمتلك حسابا ؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="loginAccount">تسجيل الدخول \n لحسابك</string>
+    <string name="forgetPassword">نسيت كلمة السر ؟ </string>
+    <string name="dontHave">لا تمتلك حسابا ؟</string>
+    <string name="signUp">التسجيل</string>
+    <string name="creatAccount">انشاء \n حساب </string>
+    <string name="condition"><![CDATA[الموافقة على الأحكام و الشروط ]]></string>
+    <string name="forgetdisc">Lorem ipsum dolor sit amet,
+        \n consectetur adipiscing elit.</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="confirmPassword">تأكيد كلمة السر</string>
+    <string name="letsGo">هيا بنا لنبدأ !!</string>
+    <string name="profile">الصفحة الشخصية</string>
+</resources>
